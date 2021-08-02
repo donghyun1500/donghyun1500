@@ -1,5 +1,5 @@
 #### - 👋 Hi, I’m @donghyun-kim
-#### - 📚 I’m interested in Big Data.
+#### - 📚 I’m interested in Big Data and Backend Developer.
 #### - 💻 I’m currently learning/doing javascript.
 #### - 🌱 I’m currently learning Node.JS
 #### - 📫 How to reach me kdh9731@gmail.com
