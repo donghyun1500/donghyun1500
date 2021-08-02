@@ -1,8 +1,8 @@
-##### - 👋 Hi, I’m @donghyun-kim
-##### - 📚 I’m interested in Big Data.
-##### - 💻 I’m currently learning/doing javascript.
-##### - 🌱 I’m currently learning Node.JS
-##### - 📫 How to reach me kdh9731@gmail.com
+#### - 👋 Hi, I’m @donghyun-kim
+#### - 📚 I’m interested in Big Data.
+#### - 💻 I’m currently learning/doing javascript.
+#### - 🌱 I’m currently learning Node.JS
+#### - 📫 How to reach me kdh9731@gmail.com
 
 <!--
 **donghyun1500/donghyun1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
